@@ -1,0 +1,38 @@
+
+€
+java:S11497"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(­•ëªıÿÿÿÿ
+€
+java:S11498"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(•¶˜øÿÿÿÿ
+€
+java:S1149H"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(­•ëªıÿÿÿÿ
+€
+java:S1149I"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(•¶˜øÿÿÿÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(†¯¢şÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(–‹¬íüÿÿÿÿ
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(†¯¢şÿÿÿÿ
+S	java:S106S"9Replace this use of System.out or System.err by a logger.(–‹¬íüÿÿÿÿ
+H
+java:S6126f"2Replace this String concatenation with Text block.(ƒ£°ù
+7	java:S131r""Add a default case to this switch.(ÔåĞ«
+T	java:S106›"9Replace this use of System.out or System.err by a logger.(„°Úíÿÿÿÿÿ
+8
+java:S1116İ"Remove this empty statement.(Åñ­õşÿÿÿÿ
+T	java:S106å"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
+N
+java:S6126ì"2Replace this String concatenation with Text block.(Î¡°ıÿÿÿÿ
+t
+java:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(­•ëªıÿÿÿÿ
+t
+java:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(•¶˜øÿÿÿÿ
+t
+java:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(­•ëªıÿÿÿÿ
+t
+java:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(•¶˜øÿÿÿÿ
+g
+java:S1192"LDefine a constant instead of duplicating this literal " Mayor que " 4 times.(øŞ¡·ûÿÿÿÿ
+{	java:S135ö"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ8Ûá–Ïî/
+g	java:S117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Ğ®…
+l	java:S117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é‘üúÿÿÿÿ
+g	java:S117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ·î‹
+l	java:S117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë”øúÿÿÿÿ
+g	java:S117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÛàî
