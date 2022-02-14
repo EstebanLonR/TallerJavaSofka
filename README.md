@@ -1,7 +1,8 @@
 # TallerJavaSofka
 Introduction
 
-El desarrollo de una aplicacion para preguntas y respuestas hecho por Juan Esteban londoño Este proyecto esta realizado bajo el modelo POO(Programacion Orientada a Objetos) y bajo el Lenguaje de programacion Java
+El desarrollo del taller de Java Sofka hecho por Juan Esteban Londoño Ruiz.
+Este proyecto esta realizado bajo el modelo POO(Programacion Orientada a Objetos) y bajo el Lenguaje de programacion Java
 
 Pre Requisitos 📋
 
