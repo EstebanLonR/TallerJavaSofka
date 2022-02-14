@@ -1,0 +1,16 @@
+
+<
+java:S1170	"!Make this final field static too.(ŽÓ§þúÿÿÿÿ
+7
+java:S1170
+"!Make this final field static too.(Í¹”¤
+<
+java:S1125H"'Remove the unnecessary boolean literal.(þãœ
+=
+java:S1125O"'Remove the unnecessary boolean literal.(êÊÖØ
+<
+java:S1125V"'Remove the unnecessary boolean literal.(þãœ
+N	java:S106W"9Replace this use of System.out or System.err by a logger.(Ï³†ß
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(Èç‰
+S	java:S106d"9Replace this use of System.out or System.err by a logger.(Üþ üÿÿÿÿ
+M	java:S106f"9Replace this use of System.out or System.err by a logger.(Éö‡

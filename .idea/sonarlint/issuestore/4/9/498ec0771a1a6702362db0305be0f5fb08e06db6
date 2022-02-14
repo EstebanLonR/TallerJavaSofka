@@ -1,14 +1,4 @@
 
-4
-java:S2119
-"Save and re-use this "Random".(¦•Õœ
-S
-java:S1854"8Remove this useless assignment to local variable "sexo".(Ìª¥Öùÿÿÿÿ
-R
-java:S1854"7Remove this useless assignment to local variable "imc".(ÍÑøÿÿÿÿ
-T
-java:S1854"?Remove this useless assignment to local variable "mayorDeEdad".(­Üà2
-C
-java:S1481"(Remove this unused "imc" local variable.(¡å¾ˆûÿÿÿÿ
-F
-java:S1481"0Remove this unused "mayorDeEdad" local variable.(Ü¼ó
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(ÓıÒ‹
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(²Ñªš
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(¦ˆ©8üù†¶ï/

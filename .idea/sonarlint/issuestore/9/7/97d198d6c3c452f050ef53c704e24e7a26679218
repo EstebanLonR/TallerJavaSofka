@@ -1,9 +1,10 @@
 
-S	java:S106P"9Replace this use of System.out or System.err by a logger.(µèç¼şÿÿÿÿ
-N	java:S106U"9Replace this use of System.out or System.err by a logger.(åÜ›œ
-S	java:S106Y"9Replace this use of System.out or System.err by a logger.(„…Èóûÿÿÿÿ
-S	java:S106b"9Replace this use of System.out or System.err by a logger.(Î¯Ÿ¸ÿÿÿÿÿ
-S	java:S106e"9Replace this use of System.out or System.err by a logger.(Ã½©©üÿÿÿÿ
-S	java:S106n"9Replace this use of System.out or System.err by a logger.(’”¾şûÿÿÿÿ
-H
-java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(µèç¼şÿÿÿÿ
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(åÜ›œ
+S	java:S106Z"9Replace this use of System.out or System.err by a logger.(„…Èóûÿÿÿÿ
+S	java:S106c"9Replace this use of System.out or System.err by a logger.(Î¯Ÿ¸ÿÿÿÿÿ
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(Ã½©©üÿÿÿÿ
+S
+java:S1117v"6Rename "dni" which hides the field declared at line 9.(÷íÉÏ8¨ıµï/
+;
+java:S2119w"Save and re-use this "Random".(¦•Õœ8é¶Ë°ï/

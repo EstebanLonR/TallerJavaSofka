@@ -1,5 +1,6 @@
 package com.co.sofka.evaluacion.personas;
 
+import javax.swing.*;
 import java.util.Random;
 
 public class Persona {
@@ -107,12 +108,18 @@ public class Persona {
     public char comprobarSexo(char sexo) {
 
         if (sexo != 'H' && sexo != 'M') {
-            System.out.println("Genero incorrecto, Se te asignara el sexo Maculino (H)");
+            JOptionPane.showMessageDialog(null, "Genero incorrecto, Se te asignara el sexo Maculino (H)");
             sexo = 'H';
         }
         return sexo;
     }
 
+    public  int generarDNI() {
+        int dni;
+        Random aleatorio = new Random();
+        dni = aleatorio.nextInt(10000000, 99999999);
+        return dni;
+    }
 
     @Override
     public String toString() {

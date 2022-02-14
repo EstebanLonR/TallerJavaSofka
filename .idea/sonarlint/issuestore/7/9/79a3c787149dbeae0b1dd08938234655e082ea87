@@ -1,0 +1,16 @@
+
+C
+java:S1170	"!Make this final field static too.(Ú²Ìıÿÿÿÿ8—îÆåî/
+>
+java:S1170
+"!Make this final field static too.(Í¹”¤8ù¶Èåî/
+£
+java:S1186`"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(æƒíªúÿÿÿÿ8ã¿¾±ï/
+C
+java:S1125H"'Remove the unnecessary boolean literal.(şãœ8Ñí…²ï/
+D
+java:S1125O"'Remove the unnecessary boolean literal.(êÊÖØ8ˆŞ†²ï/
+C
+java:S1125V"'Remove the unnecessary boolean literal.(şãœ8¸ó‡²ï/
+U	java:S106W"9Replace this use of System.out or System.err by a logger.(Ï³†ß8¸ó‡²ï/
+U	java:S106Y"9Replace this use of System.out or System.err by a logger.(Èç‰8¸ó‡²ï/
